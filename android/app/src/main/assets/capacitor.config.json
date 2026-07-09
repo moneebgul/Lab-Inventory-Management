@@ -1,0 +1,6 @@
+{
+	"appId": "com.dawlance.labinventory",
+	"appName": "Lab Inventory",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
